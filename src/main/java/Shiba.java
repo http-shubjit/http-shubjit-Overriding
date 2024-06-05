@@ -18,6 +18,6 @@
 public class Shiba extends Dog{
 
     public String sound() {
-        return "Woof";
+        return "";
     }
 }
